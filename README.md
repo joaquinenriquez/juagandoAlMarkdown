@@ -2,4 +2,4 @@
 
 > *Elemental Cusine* es una aplicación integramente móvil diseñada para la administración y gestión de pedidos en restaurantes
 
-![](https://i.ibb.co/DL6LxbL/icon-transp.png | width=100)
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
