@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://i.ibb.co/DL6LxbL/icon-transp.png" height="200">
 
-## Equipo de trabajo
-* @osorionicolas
-* @bpariz
-* @joaquinenriquez
+## Equipo
+@osorionicolas
+@bpariz
+@joaquinenriquez
