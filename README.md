@@ -15,7 +15,7 @@
 * Frontend: Framework [*Ionic*](https://ionicframework.com/ "Ionic")
 * Backend y persistencia de datos: servicios de *[Google Firebase](https://firebase.google.com/ "Firebase")*
 
-## Comunicación interna y organización del trabajo
+## Comunicación interna y organización del trabajo :clipboard:
 * Reuniones semanales (ocasionalmente entre semanas también) a través de *Google Meet* 
 
 * *Microsoft Onenote* para el seguimiento de las tareas
@@ -25,7 +25,10 @@
 * Git como sistema de control de versiones: una rama distinta por colaborador.
 
 ## Funcionalidades por colaborador :hammer:
-### Nicolás Osorio (branch: *nosorio*) :wolf:
+
+### Semana 1:  :date:
+
+#### Nicolás Osorio (branch: *nosorio*) :wolf:
 
 | Tarea | Descripción | Fecha Inicio | Fecha Fin | Estado |
 |---|---|---|---|---|
@@ -36,7 +39,7 @@
 
 ___
 
-### Brian Pariz (branch: *bpariz*) :tiger:
+#### Brian Pariz (branch: *bpariz*) :tiger:
 
 | Tarea | Descripción | Fecha Inicio | Fecha Fin | Estado |
 |---|---|---|---|---|
@@ -47,7 +50,7 @@ ___
 
 ___
 
-### Joaquín Enriquez (branch: *jenriquez*) :frog:
+#### Joaquín Enriquez (branch: *jenriquez*) :frog:
 
 | Tarea | Descripción | Fecha Inicio | Fecha Fin | Estado |
 |---|---|---|---|---|
