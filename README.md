@@ -10,12 +10,13 @@
 * Brian Pariz <[@BrianPariz](https://github.com/BrianPariz, "Brian Pariz")>
 * Joaquin Enriquez <[@joaquinenriquez](https://github.com/joaquinenriquez, "Joaquin Enriquez")>
 
+
 ## Tareas realizadas :hammer:
 ----
 ### Nicolás Osorio (branch: *nosorio*)
 
 | Tarea | Descripción | Fecha Inicio | Fecha Fin | Estado |
-|---|---|---|
+|---|---|---|---|---|
 | 2 | Splash Animación | Finalizado |
 | 5 | Login | Finalizado |
 | 10| Sonidos (activar/desactivar) | Finalizado |
