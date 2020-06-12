@@ -55,7 +55,7 @@ ___
 | B | Alta Empleado| 24/05/2020 | 30/05/2020 | Finalizado |
 
 ___
-
+<br>
 
 ### Semana 2 :date:
 
@@ -84,6 +84,7 @@ ___
 | G | QR Mesa | 02/06/2020 | 05/06/2020 | Finalizado |
 
 ___
+<br>
 
 ### Semana 3:  :date:
 
@@ -111,20 +112,22 @@ ___
 | 26 | Panel Clientes | 07/06/2020 | - | En Progreso |
 
 ___
+<br>
 
 ### Semana 4  :date:
 
 ___
-
+<br>
 
 ### Semana 5  :date:
 
 ___
-
+<br>
 
 
 ## Instalación
 
 ___
+<br>
 
 ## Screenshots
