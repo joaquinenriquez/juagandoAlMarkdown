@@ -10,6 +10,7 @@
 * Brian Pariz <[@BrianPariz](https://github.com/BrianPariz "Brian Pariz")>
 * Joaquin Enriquez <[@joaquinenriquez](https://github.com/joaquinenriquez, "Joaquin Enriquez")>
 
+<br>
 
 ## Tecnologías aplicadas :gear:
 * Frontend: [*Framework Ionic*](https://ionicframework.com/ "Ionic")
@@ -110,12 +111,12 @@ ___
 
 ___
 
-### Semana 4:  :date:
+### Semana 4  :date:
 
 ___
 
 
-### Semana 5:  :date:
+### Semana 5  :date:
 
 ___
 
