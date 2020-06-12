@@ -15,7 +15,7 @@
 ### Nicolás Osorio (branch: *nosorio*)
 | Tarea | Descripción | Fecha Inicio | Fecha Fin | Estado |
 |---|---|---|---|---|
-
+| 2 | Splash Animación | 30/06/2020 | 30/06/2020 | Finalizado |
 
 <!-- |---|---|---|---|---|
 | 2 | Splash Animación | Finalizado |
