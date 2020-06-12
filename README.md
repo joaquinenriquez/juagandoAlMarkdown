@@ -1,6 +1,6 @@
 # Elemental Cusine
 
-> *Elemental Cusine* es una aplicación integramente móvil diseñada para la gestión integral de pedidos en restaurantes
+> *Elemental Cusine* es una aplicación integramente móvil diseñada para la gestión integral de pedidos en restaurantes y enfocada en mejorar la expriencia del usuario.
 
 <p align="center">
 <img src="https://i.ibb.co/DL6LxbL/icon-transp.png" height="200">
@@ -10,8 +10,11 @@
 * Brian Pariz <[@BrianPariz](https://github.com/BrianPariz, "Brian Pariz")>
 * Joaquin Enriquez <[@joaquinenriquez](https://github.com/joaquinenriquez, "Joaquin Enriquez")>
 
+## Tecnologías aplicadas ::gear::
+* Frontend: *Ionic*
+* Backend y persistencia de datos: *Servicios de Google Firebase*
 
-## Tareas realizadas :hammer:
+## Funcionalidades por colaborador :hammer:
 ### Nicolás Osorio (branch: *nosorio*) :wolf:
 
 | Tarea | Descripción | Fecha Inicio | Fecha Fin | Estado |
