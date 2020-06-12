@@ -12,12 +12,12 @@
 
 
 ## Tareas realizadas :hammer:
-### Nicolás Osorio (branch: *nosorio*)
+### Nicolás Osorio :wolf: (branch: *nosorio*)
 | Tarea | Descripción | Fecha Inicio | Fecha Fin | Estado |
 |---|---|---|---|---|
 | 2 | Splash Animación | 30/06/2020 | 30/06/2020 | Finalizado |
-| 5 | Login | Finalizado | 01/07/2020 | 03/07/2020 | Finalizado |
-| 10| Sonidos (activar/desactivar) | 04/07/2020 | 04/07/2020 Finalizado |
-| A | ABM - Dueño/Supervisor | 05/07/2020 | 10/07/2020 | Finalizado |
+| 5 | Login | 01/07/2020 | 03/07/2020 | Finalizado |
+| 10| Sonidos (activar/desactivar) | 04/07/2020 | 04/07/2020 | Finalizado |
+| A | ABM - Dueño/Supervisor | 05/07/2020 | - | En Progreso |
 
 
