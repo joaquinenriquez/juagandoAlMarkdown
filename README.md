@@ -16,12 +16,15 @@
 ### Nicolás Osorio (branch: *nosorio*)
 
 | Tarea | Descripción | Fecha Inicio | Fecha Fin | Estado |
-|---|---|---|---|---|
+
+
+
+<!-- |---|---|---|---|---|
 | 2 | Splash Animación | Finalizado |
 | 5 | Login | Finalizado |
 | 10| Sonidos (activar/desactivar) | Finalizado |
 | A | ABM - Dueño/Supervisor | Finalizado |
 | D | ABM - Cliente | Finalizado |
-| F | QR Ingreso al local | Finalizado |
+| F | QR Ingreso al local | Finalizado | -->
 
 
