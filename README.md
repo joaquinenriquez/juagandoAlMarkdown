@@ -12,7 +12,7 @@
 
 
 ## Tareas realizadas :hammer:
-### Nicolás Osorio :wolf: (branch: *nosorio*)
+### Nicolás Osorio (branch: *nosorio*) :wolf:
 | Tarea | Descripción | Fecha Inicio | Fecha Fin | Estado |
 |---|---|---|---|---|
 | 2 | Splash Animación | 30/06/2020 | 30/06/2020 | Finalizado |
@@ -20,4 +20,21 @@
 | 10| Sonidos (activar/desactivar) | 04/07/2020 | 04/07/2020 | Finalizado |
 | A | ABM - Dueño/Supervisor | 05/07/2020 | - | En Progreso |
 
+
+### Brian Pariz (branch: *bpariz*) :panda_face:
+| Tarea | Descripción | Fecha Inicio | Fecha Fin | Estado |
+|---|---|---|---|---|
+| 2 | Splash Animación | 30/06/2020 | 30/06/2020 | Finalizado |
+| 5 | Login | 01/07/2020 | 03/07/2020 | Finalizado |
+| 10| Sonidos (activar/desactivar) | 04/07/2020 | 04/07/2020 | Finalizado |
+| A | ABM - Dueño/Supervisor | 05/07/2020 | - | En Progreso |
+
+
+### Joaquín Enriquez (branch: *jenriquez*) :frog:
+| Tarea | Descripción | Fecha Inicio | Fecha Fin | Estado |
+|---|---|---|---|---|
+| 2 | Splash Animación | 30/06/2020 | 30/06/2020 | Finalizado |
+| 5 | Login | 01/07/2020 | 03/07/2020 | Finalizado |
+| 10| Sonidos (activar/desactivar) | 04/07/2020 | 04/07/2020 | Finalizado |
+| A | ABM - Dueño/Supervisor | 05/07/2020 | - | En Progreso |
 
