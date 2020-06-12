@@ -11,7 +11,7 @@
 * Joaquin Enriquez <[@joaquinenriquez](https://github.com/joaquinenriquez, "Joaquin Enriquez")>
 
 
-## Tecnologías aplicadas ::gear::
+## Tecnologías aplicadas :gear:
 * Frontend: *Ionic*
 * Backend y persistencia de datos: *Servicios de Google Firebase*
 
