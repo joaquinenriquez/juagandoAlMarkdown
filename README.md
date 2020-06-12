@@ -6,15 +6,23 @@
 <img src="https://i.ibb.co/DL6LxbL/icon-transp.png" height="200">
 
 ## Equipo *Elementales* :rocket:
-* Nicolás Osorio <[@osorionicolas](https://github.com/osorionicolas "Google!")>
-* Brian Pariz <[@BrianPariz](https://github.com/BrianPariz, "Brian Pariz")>
+* Nicolás Osorio <[@osorionicolas](https://github.com/osorionicolas "Nicolas Osorio")>
+* Brian Pariz <[@BrianPariz](https://github.com/BrianPariz "Brian Pariz")>
 * Joaquin Enriquez <[@joaquinenriquez](https://github.com/joaquinenriquez, "Joaquin Enriquez")>
 
 
 ## Tecnologías aplicadas :gear:
-* Frontend: *Ionic*
-* Backend y persistencia de datos: *Servicios de Google Firebase*
+* Frontend: Framework [*Ionic*](https://ionicframework.com/ "Ionic")
+* Backend y persistencia de datos: servicios de *[Google Firebase](https://firebase.google.com/ "Firebase")*
 
+## Comunicación interna y organización del trabajo
+* Reuniones semanales (ocasionalmente entre semanas también) a través de *Google Meet* 
+
+* *Microsoft Onenote* para el seguimiento de las tareas
+
+* Comunicación diaria a través de grupo de *WhatsApps*
+
+* Git como sistema de control de versiones: una rama distinta por colaborador.
 
 ## Funcionalidades por colaborador :hammer:
 ### Nicolás Osorio (branch: *nosorio*) :wolf:
@@ -48,3 +56,4 @@ ___
 | 10| Sonidos (activar/desactivar) | 04/07/2020 | 04/07/2020 | Finalizado |
 | A | ABM - Dueño/Supervisor | 05/07/2020 | - | En Progreso |
 
+## Instalación
