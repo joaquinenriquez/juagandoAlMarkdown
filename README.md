@@ -14,7 +14,6 @@
 ## Tareas realizadas :hammer:
 ----
 ### Nicolás Osorio (branch: *nosorio*)
-
 | Tarea | Descripción | Fecha Inicio | Fecha Fin | Estado |
 
 
