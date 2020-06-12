@@ -3,7 +3,7 @@
 > *Elemental Cusine* es una aplicación móvil diseñada para la gestión integral de pedidos en restaurantes y enfocada en mejorar la expriencia del usuario. 
 
 <p align="center">
-<img src="https://i.ibb.co/DL6LxbL/icon-transp.png" height="200">
+<img src="https://i.ibb.co/DL6LxbL/icon-transp.png" height="300">
 
 ## Equipo *Elementales* :rocket:
 * Nicolás Osorio <[@osorionicolas](https://github.com/osorionicolas "Nicolas Osorio")>
@@ -26,16 +26,15 @@
 
 ## Funcionalidades por colaborador :hammer:
 
-### Semana 1:  :date:
+### Semana 1  :date:
 
 #### Nicolás Osorio (branch: *nosorio*) :wolf:
 
 | Tarea | Descripción | Fecha Inicio | Fecha Fin | Estado |
 |---|---|---|---|---|
-| 2 | Splash Animación | 30/06/2020 | 30/06/2020 | Finalizado |
-| 5 | Login | 01/07/2020 | 03/07/2020 | Finalizado |
-| 10| Sonidos (activar/desactivar) | 04/07/2020 | 04/07/2020 | Finalizado |
-| A | ABM - Dueño/Supervisor | 05/07/2020 | - | En Progreso |
+| 2 | Splash Animación | 23/05/2020 | 23/05/2020 | Finalizado |
+| 5 | Login | 24/05/2020 | 24/05/2020 | Finalizado |
+| 10| Sonidos (activar/desactivar) | 26/05/2020 | 26/05/2020 | Finalizado |
 
 ___
 
@@ -43,10 +42,8 @@ ___
 
 | Tarea | Descripción | Fecha Inicio | Fecha Fin | Estado |
 |---|---|---|---|---|
-| 2 | Splash Animación | 30/06/2020 | 30/06/2020 | Finalizado |
-| 5 | Login | 01/07/2020 | 03/07/2020 | Finalizado |
-| 10| Sonidos (activar/desactivar) | 04/07/2020 | 04/07/2020 | Finalizado |
-| A | ABM - Dueño/Supervisor | 05/07/2020 | - | En Progreso |
+| C | ABM Producto | 24/05/2020 | 25/05/2020 | Finalizado |
+| E | ABM Mesa | 26/05/2020 | 26/05/2020 | Finalizado |
 
 ___
 
@@ -54,10 +51,7 @@ ___
 
 | Tarea | Descripción | Fecha Inicio | Fecha Fin | Estado |
 |---|---|---|---|---|
-| 2 | Splash Animación | 30/06/2020 | 30/06/2020 | Finalizado |
-| 5 | Login | 01/07/2020 | 03/07/2020 | Finalizado |
-| 10| Sonidos (activar/desactivar) | 04/07/2020 | 04/07/2020 | Finalizado |
-| A | ABM - Dueño/Supervisor | 05/07/2020 | - | En Progreso |
+| B | Alta Empleado| 24/06/2020 | 30/06/2020 | Finalizado |
 
 ___
 
