@@ -10,3 +10,17 @@
 * Brian Pariz <[@BrianPariz](https://github.com/BrianPariz, "Brian Pariz")>
 * Joaquin Enriquez <[@joaquinenriquez](https://github.com/joaquinenriquez, "Joaquin Enriquez")>
 
+## Trabajos realizados :hammer:
+----
+### Nicolás Osorio (branch: *nosorio*)
+
+| Tarea | Descripción | Estado |
+|---|---|---|
+| 2 | Splash Animación | finalizado |
+| 5 | Login | finalizado |
+| 10| Sonidos (activar/desactivar) | no integrado |
+| A | ABM - Dueño/Supervisor | finalizado |
+| D | ABM - Cliente | finalizado |
+| F | QR Ingreso al local | finalizado |
+
+
