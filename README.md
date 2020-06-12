@@ -16,13 +16,13 @@
 * Backend y persistencia de datos: servicios de *[Google Firebase](https://firebase.google.com/ "Firebase")*
 
 ## Comunicación interna y organización del trabajo :clipboard:
-* Reuniones semanales (ocasionalmente entre semanas también) a través de *Google Meet* 
+* Reuniones semanales a través de [*Google Meet*](https://meet.google.com/ "Google Meet") 
 
-* *Microsoft Onenote* para el seguimiento de las tareas
+* [*Microsoft Onenote*](https://www.onenote.com/ "Microsoft OneNote") para el seguimiento de las tareas
 
-* Comunicación diaria a través de grupo de *WhatsApps*
+* Comunicación diaria a través de grupo de [*WhatsApp*](https://www.whatsapp.com/ "WhatsApp") 
 
-* Git como sistema de control de versiones: una rama distinta por colaborador.
+* [*Git*](https://git-scm.com/ "Git") como sistema de control de versiones: una rama distinta por colaborador.
 
 ## Funcionalidades por colaborador :hammer:
 
