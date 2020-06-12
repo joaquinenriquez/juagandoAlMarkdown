@@ -12,7 +12,7 @@
 
 
 ## Tecnologías aplicadas :gear:
-* Frontend: Framework [*Ionic*](https://ionicframework.com/ "Ionic")
+* Frontend: [*Framework Ionic*](https://ionicframework.com/ "Ionic")
 * Backend y persistencia de datos: servicios de *[Google Firebase](https://firebase.google.com/ "Firebase")*
 
 ## Comunicación interna y organización del trabajo :clipboard:
