@@ -1,6 +1,6 @@
 # Elemental Cusine
 
-> *Elemental Cusine* es una aplicación móvil diseñada para la gestión integral de pedidos en restaurantes y enfocada en mejorar la expriencia del usuario.
+> *Elemental Cusine* es una aplicación móvil diseñada para la gestión integral de pedidos en restaurantes y enfocada en mejorar la expriencia del usuario. 
 
 <p align="center">
 <img src="https://i.ibb.co/DL6LxbL/icon-transp.png" height="200">
@@ -59,4 +59,92 @@ ___
 | 10| Sonidos (activar/desactivar) | 04/07/2020 | 04/07/2020 | Finalizado |
 | A | ABM - Dueño/Supervisor | 05/07/2020 | - | En Progreso |
 
+___
+
+
+### Semana 2:  :date:
+
+#### Nicolás Osorio (branch: *nosorio*) :wolf:
+
+| Tarea | Descripción | Fecha Inicio | Fecha Fin | Estado |
+|---|---|---|---|---|
+| 2 | Splash Animación | 30/06/2020 | 30/06/2020 | Finalizado |
+| 5 | Login | 01/07/2020 | 03/07/2020 | Finalizado |
+| 10| Sonidos (activar/desactivar) | 04/07/2020 | 04/07/2020 | Finalizado |
+| A | ABM - Dueño/Supervisor | 05/07/2020 | - | En Progreso |
+
+___
+
+#### Brian Pariz (branch: *bpariz*) :tiger:
+
+| Tarea | Descripción | Fecha Inicio | Fecha Fin | Estado |
+|---|---|---|---|---|
+| 2 | Splash Animación | 30/06/2020 | 30/06/2020 | Finalizado |
+| 5 | Login | 01/07/2020 | 03/07/2020 | Finalizado |
+| 10| Sonidos (activar/desactivar) | 04/07/2020 | 04/07/2020 | Finalizado |
+| A | ABM - Dueño/Supervisor | 05/07/2020 | - | En Progreso |
+
+___
+
+#### Joaquín Enriquez (branch: *jenriquez*) :frog:
+
+| Tarea | Descripción | Fecha Inicio | Fecha Fin | Estado |
+|---|---|---|---|---|
+| 2 | Splash Animación | 30/06/2020 | 30/06/2020 | Finalizado |
+| 5 | Login | 01/07/2020 | 03/07/2020 | Finalizado |
+| 10| Sonidos (activar/desactivar) | 04/07/2020 | 04/07/2020 | Finalizado |
+| A | ABM - Dueño/Supervisor | 05/07/2020 | - | En Progreso |
+
+___
+
+### Semana 3:  :date:
+
+#### Nicolás Osorio (branch: *nosorio*) :wolf:
+
+| Tarea | Descripción | Fecha Inicio | Fecha Fin | Estado |
+|---|---|---|---|---|
+| 2 | Splash Animación | 30/06/2020 | 30/06/2020 | Finalizado |
+| 5 | Login | 01/07/2020 | 03/07/2020 | Finalizado |
+| 10| Sonidos (activar/desactivar) | 04/07/2020 | 04/07/2020 | Finalizado |
+| A | ABM - Dueño/Supervisor | 05/07/2020 | - | En Progreso |
+
+___
+
+#### Brian Pariz (branch: *bpariz*) :tiger:
+
+| Tarea | Descripción | Fecha Inicio | Fecha Fin | Estado |
+|---|---|---|---|---|
+| 2 | Splash Animación | 30/06/2020 | 30/06/2020 | Finalizado |
+| 5 | Login | 01/07/2020 | 03/07/2020 | Finalizado |
+| 10| Sonidos (activar/desactivar) | 04/07/2020 | 04/07/2020 | Finalizado |
+| A | ABM - Dueño/Supervisor | 05/07/2020 | - | En Progreso |
+
+___
+
+#### Joaquín Enriquez (branch: *jenriquez*) :frog:
+
+| Tarea | Descripción | Fecha Inicio | Fecha Fin | Estado |
+|---|---|---|---|---|
+| 2 | Splash Animación | 30/06/2020 | 30/06/2020 | Finalizado |
+| 5 | Login | 01/07/2020 | 03/07/2020 | Finalizado |
+| 10| Sonidos (activar/desactivar) | 04/07/2020 | 04/07/2020 | Finalizado |
+| A | ABM - Dueño/Supervisor | 05/07/2020 | - | En Progreso |
+
+___
+
+### Semana 4:  :date:
+
+___
+
+
+### Semana 5:  :date:
+
+___
+
+
+
 ## Instalación
+
+___
+
+## Screenshots
