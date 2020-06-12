@@ -9,13 +9,11 @@
 * Nicolás Osorio <[@osorionicolas](https://github.com/osorionicolas "Nicolas Osorio")>
 * Brian Pariz <[@BrianPariz](https://github.com/BrianPariz "Brian Pariz")>
 * Joaquin Enriquez <[@joaquinenriquez](https://github.com/joaquinenriquez, "Joaquin Enriquez")>
-<br>
-
+<br />
 ## Tecnologías aplicadas :gear:
 * Frontend: [*Framework Ionic*](https://ionicframework.com/ "Ionic")
 * Backend y persistencia de datos: servicios de *[Google Firebase](https://firebase.google.com/ "Firebase")*
-<br>
-
+<br />
 ## Comunicación interna y organización del trabajo :clipboard:
 * Reuniones semanales a través de [*Google Meet*](https://meet.google.com/ "Google Meet") 
 
@@ -24,8 +22,7 @@
 * Comunicación diaria a través de grupo de [*WhatsApp*](https://www.whatsapp.com/ "WhatsApp") 
 
 * [*Git*](https://git-scm.com/ "Git") como sistema de control de versiones: una rama distinta por colaborador.
-<br>
-
+<br />
 ## Funcionalidades por colaborador :hammer:
 
 ### Semana 1  :date:
