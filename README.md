@@ -126,7 +126,7 @@ ___
 | Tarea | Descripción | Fecha Inicio | Fecha Fin | Estado |
 |---|---|---|---|---|
 | O | Push Notification - Lista de espera | 14/06/2020 | 14/06/2020 | Finalizado |
-| O | Componente importe total | 15/06/2020 | 16/06/2020 | Finalizado |
+| 30 | Componente importe total | 15/06/2020 | 16/06/2020 | Finalizado |
 | 17 | Cliente confirma entrega | 19/06/2020 | 19/06/2020 | Finalizado |
 ___
 
