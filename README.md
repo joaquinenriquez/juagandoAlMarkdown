@@ -157,7 +157,7 @@ ___
 |---|---|---|---|---|
 | T | Juego 1 | 14/06/2020 | - | Pendiente |
 | 35 | Cliente solicita la cuenta | 15/06/2020 | 16/06/2020 | Finalizado |
-| - | Correción de errores y preparación de videos para preentrega | 20/06/2020 | - | Pendiente |
+| - | Correción de errores y preparación de videos para pre-entrega | 20/06/2020 | - | Pendiente |
 ___
 
 #### Brian Pariz (branch: *bpariz*) :tiger:
@@ -166,7 +166,7 @@ ___
 |---|---|---|---|---|
 | U | Juego 2 | - | 23/06/2020 | Finalizado |
 | 19| Mozo cierra la cuenta | 24/06/2020 | 24/06/2020 | Finalizado |
-| - | Correción de errores y preparación de videos para preentrega | 20/06/2020 | - | Pendiente |
+| - | Correción de errores y preparación de videos para pre-entrega | 20/06/2020 | - | Pendiente |
 ___
 
 #### Joaquín Enriquez (branch: *jenriquez*) :frog:
@@ -175,7 +175,7 @@ ___
 |---|---|---|---|---|
 | V | Juego 3 | 22/06/2020 | - | Finalizado |
 | M | El mozo entrega el pedido | 23/06/2020 | 23/06/2020 | Finalizado |
-| - | Correción de errores y preparación de videos para preentrega | 20/06/2020 | - | Pendiente |
+| - | Correción de errores y preparación de videos para pre-entrega | 20/06/2020 | - | Pendiente |
 
 ___
 ## Instalación
